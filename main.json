@@ -16,7 +16,7 @@
          "name":"collide_layer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -34,7 +34,7 @@
                  "value":"https:\/\/0.100101.online"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
                  "value":"room_with_a_wifi"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
                  "value":"https:\/\/hackerinnen.space\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
                  "value":"https:\/\/www.opentechschool.org\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -115,7 +115,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"\t{<lobby>\/non-tech.json#start_opentechschool}"
+                 "value":"{<lobby>\/maps\/non-tech.json#start_opentechschool}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -130,7 +130,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -142,7 +142,7 @@
          "name":"bottom-2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -154,7 +154,7 @@
          "name":"top-garden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -166,7 +166,7 @@
          "name":"floor-deko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -178,7 +178,7 @@
          "name":"back-walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -190,7 +190,7 @@
          "name":"exitDoor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -202,7 +202,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -213,7 +213,7 @@
          "name":"front-walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -225,7 +225,7 @@
          "name":"top-deko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":200,
          "x":0,
          "y":0
@@ -256,7 +256,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
