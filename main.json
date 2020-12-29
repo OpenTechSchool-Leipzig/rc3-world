@@ -179,9 +179,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"getBadge",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"ABRlmNBhnUsx8cSWtXgRqcSA6fyddbhyCZTyvzvgQp4mHiXjO7"
+                 "value":"https:\/\/rc3.world\/rc3\/me\/redeem_badge\/v2xm7s3CEVob0kZdl5AgoAgM5054yFsaJYogyzrkFgM3NTK2RD"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -197,9 +197,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"getBadge",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"RbxtNt2xVxuCSroUPXxKteVBE8Y8EgUIaO0VaXQtccu4bXZ8fV"
+                 "value":"https:\/\/rc3.world\/rc3\/me\/redeem_badge\/7yI8sW76dAKLKXDPg24WLWJDB2gij4cCvRyIiUneosvSuTnw9f"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -215,9 +215,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"getBadge",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"Cw1A6EV3x92Yehe7r5HRQXhQWJtKRLNh3vwFrbKXe32jxymItN"
+                 "value":"https:\/\/rc3.world\/rc3\/me\/redeem_badge\/Nf6o3mV6I81nKziKX92yZXhRYDv0WHw3O79JHQh0ZE3TqXx93e"
                 }],
          "type":"tilelayer",
          "visible":true,
