@@ -47,9 +47,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.abwesend.com\/opentechschool"
+                 "value":"shared opentechschool"
                 }],
          "type":"tilelayer",
          "visible":true,
