@@ -31,7 +31,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/0.100101.online"
+                 "value":"https:\/\/angry-saha-fe6325.netlify.app"
                 }],
          "type":"tilelayer",
          "visible":true,
