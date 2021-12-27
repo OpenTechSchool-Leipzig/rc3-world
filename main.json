@@ -65,7 +65,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nullaufeins.netlify.app\/"
+                 "value":"https:\/\/nullaufeins.org"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
